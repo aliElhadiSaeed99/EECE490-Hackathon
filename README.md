@@ -3,7 +3,7 @@
 ## Team Members
 * Ali El Hadi Saeed
 * Tamer Lammam
-* Marc Bteich
+* Marc Bteish
 
 ## The approach to the hackathon:
 Our program uses a universal machine learning pipeline built on `scikit-learn`. It reads an unfamiliar CSV, dynamically determines the task (Classification, Regression, or Clustering), and routes the data to the appropriate model (`RandomForestClassifier`, `RandomForestRegressor`, or `MiniBatchKMeans`). 
